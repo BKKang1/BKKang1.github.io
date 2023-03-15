@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.319b7689.css",
-    "main.js": "/static/js/main.43face24.js",
-    "static/media/샤인머스켓.png": "/static/media/샤인머스켓.4d6e1f429c05dd90b260.png",
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.30281013.js",
+    "static/js/787.c91c0369.chunk.js": "/static/js/787.c91c0369.chunk.js",
     "index.html": "/index.html",
-    "main.319b7689.css.map": "/static/css/main.319b7689.css.map",
-    "main.43face24.js.map": "/static/js/main.43face24.js.map"
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.30281013.js.map": "/static/js/main.30281013.js.map",
+    "787.c91c0369.chunk.js.map": "/static/js/787.c91c0369.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.319b7689.css",
-    "static/js/main.43face24.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.30281013.js"
   ]
 }
